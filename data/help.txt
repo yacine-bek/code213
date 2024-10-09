@@ -1,0 +1,19 @@
+program features!!:
+    to order:
+        Type the prev num beffor the order
+    the maintenance:
+        ##To open the maintenance Menu enter (1200)!!
+        update data of the element in the machin
+        see daily data that contain and the monney in the machine
+        save the daily data in another file that make the RAM better (I can make it way better i am just tired hhh)
+        you can recover the data of past days by typing the date (yyyy-mm-dd)
+
+folders:
+    data:
+        contain the data of the element in the machine and the help file (what you'r reading now)
+    log:
+        contain all prev dates files (file name = date of the orders)
+        last_log.json
+            contain the "Today data order"
+    tmp.json
+        You dont wanna now :)
